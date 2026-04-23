@@ -31,3 +31,6 @@ This project detects whether a news article is REAL or FAKE using Machine Learni
 pip install -r requirements.txt
 python train.py
 python app.py
+
+Input: Government announces new policy
+Output: REAL NEWS 🟢
