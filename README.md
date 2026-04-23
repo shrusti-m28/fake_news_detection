@@ -33,9 +33,13 @@ git clone https://github.com/shrust-m28/fake_news_detection.git
 ## Run This one by one
 
 pip install -r requirements.txt
+
 python train.py
+
 python app.py
 
 ##Sample OUTPUT
+
 Input: Government announces new policy
+
 Output: REAL NEWS 🟢
